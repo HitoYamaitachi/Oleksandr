@@ -95,7 +95,7 @@ body{
 }
 /* adding animation to home section image  */
 .home img{
-    animation: floatimg 4s ease-in-out infinite;
+    /* animation: floatimg 4s ease-in-out infinite; */
 }
 
 @keyframes floatimg {
